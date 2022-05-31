@@ -1,0 +1,88 @@
+/content/Yolov5/Road_Sign_Dataset/val/images/road334.png 110.0,169.0,142.0,202.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road105.png 27.0,146.0,281.0,377.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road684.png 92.0,231.0,159.0,297.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road237.png 125.0,158.0,140.0,174.0,2 144.0,159.0,157.0,173.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road28.png 171.0,2.0,188.0,34.0,0 273.0,57.0,291.0,90.0,0 259.0,60.0,273.0,91.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road53.png 9.0,110.0,140.0,240.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road55.png 113.0,88.0,201.0,179.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road619.png 131.0,147.0,183.0,202.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road231.png 128.0,195.0,149.0,216.0,2 153.0,195.0,173.0,214.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road523.png 98.0,170.0,134.0,207.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road645.png 67.0,142.0,148.0,223.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road743.png 67.0,138.0,94.0,164.0,2 64.0,180.0,91.0,208.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road714.png 66.0,176.0,126.0,236.0,2 64.0,271.0,125.0,332.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road207.png 176.0,184.0,197.0,206.0,2 33.0,214.0,75.0,255.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road671.png 161.0,176.0,178.0,193.0,2 75.0,202.0,84.0,211.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road554.png 87.0,257.0,142.0,311.0,2 0.0,354.0,20.0,387.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road81.png 70.0,41.0,218.0,187.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road715.png 81.0,130.0,163.0,213.0,2 85.0,4.0,166.0,85.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road594.png 160.0,1.0,277.0,109.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road49.png 84.0,34.0,124.0,117.0,0 134.0,121.0,151.0,154.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road822.png 35.0,308.0,58.0,352.0,0 96.0,206.0,122.0,278.0,0 124.0,167.0,163.0,277.0,0 156.0,166.0,214.0,231.0,3 106.0,77.0,168.0,140.0,1 183.0,317.0,201.0,340.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road274.png 165.0,272.0,220.0,330.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road746.png 92.0,153.0,145.0,208.0,2 85.0,237.0,139.0,291.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road833.png 120.0,152.0,146.0,177.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road151.png 147.0,37.0,266.0,186.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road834.png 121.0,144.0,156.0,179.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road675.png 22.0,217.0,31.0,226.0,2 149.0,166.0,178.0,196.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road656.png 72.0,155.0,99.0,181.0,3 151.0,162.0,181.0,194.0,2 31.0,185.0,51.0,206.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road716.png 177.0,211.0,195.0,230.0,2 150.0,210.0,169.0,229.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road269.png 136.0,111.0,218.0,192.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road381.png 126.0,157.0,166.0,195.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road566.png 77.0,238.0,127.0,289.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road713.png 99.0,211.0,150.0,261.0,2 99.0,134.0,150.0,183.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road66.png 95.0,23.0,311.0,227.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road766.png 134.0,188.0,174.0,227.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road646.png 0.0,270.0,108.0,380.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road648.png 152.0,186.0,173.0,207.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road405.png 150.0,262.0,174.0,286.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road629.png 146.0,96.0,250.0,203.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road115.png 141.0,63.0,244.0,161.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road195.png 135.0,177.0,189.0,250.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road660.png 132.0,189.0,193.0,250.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road485.png 47.0,125.0,181.0,254.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road720.png 99.0,194.0,127.0,222.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road511.png 114.0,160.0,169.0,213.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road479.png 30.0,50.0,134.0,151.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road205.png 149.0,178.0,259.0,287.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road683.png 86.0,204.0,140.0,259.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road295.png 126.0,117.0,141.0,132.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road542.png 100.0,285.0,144.0,324.0,2 60.0,343.0,69.0,356.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road466.png 66.0,59.0,152.0,142.0,2 128.0,263.0,217.0,351.0,3 68.0,246.0,122.0,392.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road30.png 40.0,6.0,101.0,121.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road152.png 125.0,37.0,276.0,185.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road387.png 124.0,125.0,153.0,154.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road650.png 126.0,110.0,162.0,147.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road283.png 187.0,220.0,241.0,279.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road171.png 138.0,209.0,165.0,245.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road425.png 85.0,198.0,140.0,253.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road265.png 140.0,237.0,172.0,273.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road847.png 103.0,159.0,133.0,187.0,2 271.0,217.0,295.0,284.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road377.png 118.0,173.0,153.0,208.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road19.png 99.0,104.0,119.0,157.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road484.png 54.0,122.0,165.0,228.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road375.png 81.0,213.0,156.0,287.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road256.png 151.0,94.0,207.0,149.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road149.png 123.0,36.0,277.0,158.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road820.png 79.0,224.0,90.0,247.0,0 127.0,223.0,149.0,283.0,0 116.0,243.0,128.0,281.0,0 121.0,171.0,156.0,206.0,1 43.0,289.0,51.0,304.0,0 55.0,281.0,66.0,305.0,0 149.0,223.0,181.0,256.0,3 247.0,280.0,259.0,297.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road585.png 129.0,108.0,170.0,148.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road85.png 80.0,145.0,230.0,292.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road545.png 77.0,198.0,122.0,241.0,2 140.0,245.0,209.0,314.0,3 56.0,315.0,100.0,359.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road119.png 225.0,31.0,337.0,144.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road10.png 106.0,3.0,244.0,263.0,0
+/content/Yolov5/Road_Sign_Dataset/val/images/road654.png 114.0,189.0,138.0,212.0,2 32.0,199.0,49.0,217.0,2 62.0,178.0,84.0,200.0,3
+/content/Yolov5/Road_Sign_Dataset/val/images/road348.png 173.0,133.0,239.0,209.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road363.png 172.0,75.0,293.0,198.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road749.png 85.0,156.0,107.0,178.0,2 113.0,156.0,135.0,178.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road203.png 176.0,145.0,226.0,193.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road532.png 65.0,306.0,84.0,328.0,3 196.0,304.0,210.0,323.0,3 115.0,319.0,128.0,336.0,3 172.0,216.0,223.0,267.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road631.png 146.0,137.0,178.0,168.0,1
+/content/Yolov5/Road_Sign_Dataset/val/images/road273.png 112.0,190.0,147.0,225.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road112.png 137.0,12.0,272.0,152.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road280.png 91.0,168.0,135.0,213.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road534.png 14.0,386.0,36.0,399.0,3 158.0,384.0,174.0,399.0,3 174.0,242.0,243.0,312.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road602.png 88.0,195.0,118.0,225.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road500.png 141.0,178.0,201.0,253.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road753.png 61.0,137.0,118.0,192.0,2 133.0,136.0,187.0,189.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road516.png 84.0,133.0,163.0,210.0,2
+/content/Yolov5/Road_Sign_Dataset/val/images/road588.png 93.0,204.0,117.0,228.0,2
